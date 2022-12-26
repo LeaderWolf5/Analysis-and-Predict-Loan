@@ -8,7 +8,7 @@ hiện điểm dữ liệu và các mối tương quan giữa các biến
 
 # English
 # Loan prediction and analysis project built with functions such as statistics of variables, data set structure, physical charts
-show data points and correlations between variables
+# Show data points and correlations between variables
 # Build 2 models of linear regression and logistic regression
 # Generate loan approval predictions
 # Hope you guys use and improve the project
